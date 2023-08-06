@@ -55,5 +55,3 @@ displayProducts();
 // Add event listener for the checkout button
 const checkoutBtn = document.getElementById("checkout-btn");
 checkoutBtn.addEventListener("click", checkout);
-
-checkoutBtn.style.backgroundColor = "cyan";

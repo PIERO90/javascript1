@@ -1,14 +1,23 @@
 h2 {
-  color: blue;
+  color: greenyellow;
 }
 
 h3 {
-  color: blue;
+  color: greenyellow;
 }
 
-.notebook {
+.card {
   display: block;
+  margin: 100px;
+  background-color: cornflowerblue;
   align-items: center;
-  max-width: 300px;
-  background-color: forestgreen;
+  max-width: 500px;
+}
+
+button {
+  background-color: aquamarine;
+}
+
+.products {
+  list-style: none;
 }
