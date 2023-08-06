@@ -1,0 +1,14 @@
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: blue;
+}
+
+.notebook {
+  display: block;
+  align-items: center;
+  max-width: 300px;
+  background-color: forestgreen;
+}
